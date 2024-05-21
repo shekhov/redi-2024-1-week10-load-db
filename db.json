@@ -1,0 +1,65 @@
+{
+    "apartments": [
+    {
+      "id": 1,
+      "name": "Cozy Apartment",
+      "rooms": [
+        {
+          "type": "Bedroom",
+          "size": "12 sqm"
+        },
+        {
+          "type": "Living Room",
+          "size": "20 sqm"
+        },
+        {
+          "type": "Kitchen",
+          "size": "8 sqm"
+        }
+      ],
+      "maxPeople": 3
+    },
+    {
+      "id": 2,
+      "name": "Luxury Suite",
+      "rooms": [
+        {
+          "type": "Master Bedroom",
+          "size": "25 sqm"
+        },
+        {
+          "type": "Guest Bedroom",
+          "size": "15 sqm"
+        },
+        {
+          "type": "Living Room",
+          "size": "30 sqm"
+        },
+        {
+          "type": "Kitchen",
+          "size": "12 sqm"
+        },
+        {
+          "type": "Bathroom",
+          "size": "10 sqm"
+        }
+      ],
+      "maxPeople": 5
+    },
+    {
+      "id": 3,
+      "name": "Studio Apartment",
+      "rooms": [
+        {
+          "type": "Studio",
+          "size": "25 sqm"
+        },
+        {
+          "type": "Bathroom",
+          "size": "5 sqm"
+        }
+      ],
+      "maxPeople": 2
+    }
+  ]
+}
